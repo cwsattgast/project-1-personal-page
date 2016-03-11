@@ -88,6 +88,10 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 }
+.charlie {
+  background-color: #fff;
+  opacity: 0.75;
+}
 .location {
   background-color: #222;
   color: #f3d437;
