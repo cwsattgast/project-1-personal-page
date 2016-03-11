@@ -18,7 +18,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #4889b5;
 }
 
 /* Section Styles */
@@ -66,7 +66,7 @@ header {
   line-height: 1.5;
 }
 header .profile-image {
-  margin-top: 50px;
+  margin: 2.5em 0 1em 0;
   width: 150px;
   height: 150px;
   border-radius: 50%;
@@ -75,6 +75,10 @@ header .profile-image {
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
+}
+.page-heading {
+  color:#fff;
+  margin-top: 3.5em;
 }
 .tag {
   background-color: #efefef;
@@ -99,7 +103,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #a395c2;
+  border-color: #4889b5;
 }
 
 ul.skills {
